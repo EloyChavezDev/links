@@ -1,5 +1,6 @@
 ---
 title: "DIY Beyond Burger"
+Link: "https://bitacora.eloychavez.dev/"
 description: "Home made Beyond Burger"
 summary: "Home made Beyond Burger"
 date: 2020-02-05T08:11:45-05:00
@@ -11,7 +12,7 @@ featured_image: "/diybeyondburger.jpg"
 
 ## Ingredients
 
-Makes 3 patties
+Makes 3 patties 
 
 - 3/4 Cups - Cooked Brown Rice
 - 1 Cup - TVP

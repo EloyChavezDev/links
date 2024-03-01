@@ -1,5 +1,6 @@
 ---
 title: "Minestrone Soup"
+Link: "https://bitacora.eloychavez.dev/"
 description: "Classic Minestrone Soup"
 summary: "Classic Minestrone Soup"
 date: 2019-11-13T08:11:45-05:00

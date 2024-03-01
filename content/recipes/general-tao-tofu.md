@@ -1,5 +1,6 @@
 ---
 title: "General Tao Tofu"
+Link: "https://bitacora.eloychavez.dev/"
 description: "Tofu Glazed with Sauce on Rice"
 summary: "Tofu Glazed with Sauce on Rice"
 date: 2019-11-13T08:11:45-05:00
