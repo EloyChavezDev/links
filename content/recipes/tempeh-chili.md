@@ -1,5 +1,6 @@
 ---
 title: "Tempeh Chili"
+Link: "https://bitacora.eloychavez.dev/"
 description: "Vegan Chili with Beer & Tempeh"
 summary: "Vegan Chili with Beer & Tempeh"
 date: 2019-11-22T02:11:45-05:00

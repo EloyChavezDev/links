@@ -1,5 +1,6 @@
 ---
 title: "Vegan Pancakes"
+Link: "https://bitacora.eloychavez.dev/"
 description: "Fluffy White Pancakes"
 summary: "Fluffy White Pancakes"
 date: 2019-11-13T08:11:45-05:00
