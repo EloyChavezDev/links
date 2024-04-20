@@ -5,6 +5,11 @@
       <div class="column is-half">
         <h3 class="title">{{ humanize .Page.Title }}</h3>
       </div>
+      <div style="margin-bottom: 1em;">
+        {{ range .Site.Taxonomies.tags }}
+        <a class="tag" href="{{ .Page.Permalink }}">{{ .Page.Title }}</a>
+        {{ end }}
+      </div>
     </div>
     <div class="columns is-centered">
       <div class="column">
