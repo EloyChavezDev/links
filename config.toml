@@ -1,4 +1,4 @@
-baseURL = "https://recipesbook.netlify.com/"
+baseURL = "https://links.eloychavez.dev/"
 languageCode = "en-us"
 title = "Jason's Recipe Book"
 theme = "recipes"
