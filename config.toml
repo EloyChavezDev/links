@@ -1,8 +1,8 @@
 baseURL = "https://links.eloychavez.dev/"
-languageCode = "en-us"
-title = "Jason's Recipe Book"
+languageCode = "es-es"
+title = "Links EloyChavezDev"
 theme = "recipes"
 
 [params]
-  author = "Jason Rametta"
-  description = "Jason's Recipe Book"
+  author = "EloyChavezDev"
+  description = "Links de utilidad"
